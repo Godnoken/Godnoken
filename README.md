@@ -3,12 +3,14 @@
 - 📫 How to reach me: sebastian.ojefors@gmail.com
 - ⚡ Fun facts: My mother tounge is Swedish but most people believe that it's actually English. I speak a little bit of Spanish too & am continously learning.
 
-#### Languages & tools I have used
+#### Tech I have used
 
 ##### Base languages
 <a title="HTML" href="https://en.wikipedia.org/wiki/HTML#:~:text=The%20HyperText%20Markup%20Language%20or,(HyperText%20Markup%20Language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="35"/></a>
 <a title="CSS" href="https://en.wikipedia.org/wiki/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="35"/></a>
 <a title="JavaScript" href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="35"/></a>
+<a title="C" href="https://en.wikipedia.org/wiki/C_(programming_language)#:~:text=C%20is%20an%20imperative%20procedural,all%20with%20minimal%20runtime%20support."><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="35"/></a>
+<a title="C#" href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="35"/></a>
 
 ##### Front End
 <a title="SASS" href="https://sass-lang.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="35"/></a>
@@ -27,8 +29,15 @@
 ##### Designing
 <a title="Figma" href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35"/></a>
 
-##### Version Control
+##### And others..
 <a title="Git" href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="35"/></a>
+<a title="Webpack" href="https://webpack.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="35"/></a>
+<a title="VSCode" href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="35"/></a>
+<a title="NPM" href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="35"/></a>
+<a title="Unity" href="https://unity.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" alt="Unity" width="35"/></a>
+          
+
+
 <!--
 **Godnoken/Godnoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
