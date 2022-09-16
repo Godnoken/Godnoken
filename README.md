@@ -1,8 +1,3 @@
-- 🔭 I’m looking for a software development role wide & far with the help of a binocular, telescope and compass. Please help.
-- 🌱 I’m currently learning C# & Unity, NodeJS & Express, MongoDB, Angular.
-- 📫 How to reach me: sebastian.ojefors@gmail.com
-- ⚡ Fun facts: My mother tounge is Swedish but most people believe that it's actually English. I speak a little bit of Spanish too & am continously learning.
-
 #### Tech I have used
 
 ##### Base languages
